@@ -1,2 +1,2 @@
 # gfififid-site-test
-gfififid-site-test/5.jpg
+'gfififid-site-test/[5.jpg]'
